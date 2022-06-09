@@ -1,0 +1,272 @@
+
+  
+ input {
+     
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    width:120px;
+    position: right;
+  }
+  
+  
+ input{
+     
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+    width:120px;
+    position: right;
+  }
+  .bodylogin{
+ 
+  
+    background-color: #044045;
+
+     border-bottom: 1px solid white;
+     margin: 600px 60px 175px 1000px;
+
+
+}
+input{border-radius: 10px;}
+
+
+
+
+  
+  
+.backimg{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 50px;
+position: fixed;
+  background-color: #044045;
+}
+body{
+  background-color: #3ea2ac;
+}
+/*Login Text*/
+h1 {
+  position: relative;
+  text-align: center;
+  position: fixed;
+  top: 60px;
+  left: 1050px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Georgia, ;
+}
+.login{
+    position: relative;
+    text-align: center;
+    position: fixed;
+    top: 60px;
+    left: 1050px;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Georgia, ;
+    color: white;
+    
+}
+h1{
+  color: white;;
+}
+
+.welcomelogin {
+  
+margin-right: 300px;
+  top: 20px;
+  left: 0px;
+  right: 55px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Georgia;
+  color: white;
+}
+/*keep signed in*/
+.keeplogin{
+  position: relative;
+  text-align: center;
+  position: fixed;
+ top: 290px;
+  left: 960px;
+  right: 210px;
+ font-size: 15px;
+  font-weight: regular;
+  font-family: Georgia, ;
+  color: white;
+}
+.forgetpasslogin{
+  position: relative;
+  position: fixed;
+  text-align: center;
+top: 390px;
+  left: 970px;
+  right: 260px;
+ font-size: 15px;
+  font-weight: regular;
+  font-family: Georgia, ;
+  color: white;
+}
+
+.loginwithlogin{
+  position: relative;
+  text-align: center;
+  position: fixed;
+ top: 435px;
+  left: 970px;
+  right: 285px;
+  
+ font-size: 15px;
+  font-weight: regular;
+  font-family: Georgia, ;
+  color: white;
+ 
+}
+.haveaccountlogin{
+  position: relative;
+  text-align: center;
+  position: fixed;
+ top: 630px;
+  left: 1070px;
+  
+ font-size: 15px;
+  font-weight: regular;
+  font-family: Georgia, ;
+  color: white;
+ 
+}
+.formlogin{
+  position: relative;
+  text-align: center;
+  position: fixed;
+  bottom: 420px;
+  left: 990px;
+  font-size: 50px;
+  font-weight: bold;
+  font-family: Georgia ;
+
+}
+.emaillogin{
+  width: 250px;
+}
+.passwordlogin{
+  width: 250px;
+  
+  margin: 20px;
+}
+.boxlogin{
+ position: relative;
+ right: 25px;
+ bottom: 45px;
+}
+.btnlogin{
+  position: relative;
+  text-align: center;
+  top: 20;
+  right: 100px;
+  padding: 7px 5px;
+  font-weight: bold;
+background-color: #03968F;
+border: none;
+color: white;
+ 
+}
+
+.btnsignin{
+  position: relative;
+  text-align: center;
+  position: fixed;
+  bottom: 35px;
+  right: 60px;
+  padding: 15px 20px;
+  font-weight: bold;
+background-color: #03968F;
+border: none;
+color: white;
+ 
+}
+::placeholder{
+  position: absolute;
+  left: 40px;
+  
+}
+
+ 
+.maillogin{
+  position: relative;
+  position: fixed;
+  right: 0px;
+  left: 1020px;
+  bottom: 558px;
+  height: 15px;
+  opacity: 0.4;
+}
+
+ 
+
+.locklogin{
+  position: relative;
+  position: fixed;
+  right: 0px;
+  left: 1020px;
+  bottom: 507px;
+  height: 15px;
+  opacity: 0.4;
+}
+
+.eyelogin{
+  position: relative;
+  position: fixed;
+  right: 0px;
+  left: 1235px;
+  bottom: 507px;
+  height: 15px;
+  opacity: 1;
+}
+
+.facebooklogin{
+  position: relative;
+  position: fixed;
+  right: 0px;
+  left: 1120px;
+  bottom: 325px;
+  height: 20px;
+ 
+
+}
+.googlelogin{
+  position: relative;
+  position: fixed;
+  right: 0px;
+  left: 1148px;
+  bottom: 325px;
+  height: 20px;
+ 
+}
+.link2{
+  position: absolute;
+  position: fixed;
+  top: 615px;
+  right: 80px;
+  
+  color: white;
+  background-color: #03968F;
+  text-decoration: none;
+  padding: 15px ;
+}
+.link3{
+  position: absolute;
+  position: fixed;
+  top: 10px;
+  right: 1350px;
+  
+  color: white;
+  background-color: #03968F;
+  text-decoration: none;
+  padding: 15px ;
+  border-radius: 20px;
+}
