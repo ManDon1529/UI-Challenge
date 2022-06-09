@@ -1,0 +1,52 @@
+.wrapper{
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    background-color: aqua;
+    background: red;
+}
+.box{
+    height: 150px;
+    flex-basis: 200px;
+    
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    background: bisque;
+}
+.one{
+    background: red;
+    text-align: center;
+}
+.two{
+    background: yellow;
+}
+.three{
+    background: blue;
+}
+.four{
+    background: green;
+}
+.five{
+    background:peru;
+}
+.six{
+    background: purple;
+}
+
+.seven{
+    background: pink;
+}
+
+.et{
+    background: yellow;
+}
+
+.ni{
+    background:black;
+}
+
+.ten{
+    background: red;
+}
